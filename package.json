@@ -1,0 +1,36 @@
+{
+  "name": "odlc",
+  "version": "1.0.0",
+  "description": "open data lake constructors support specific formats or domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dassolkim/ODLC.git"
+  },
+  "keywords": [
+    "data",
+    "lakes",
+    "open",
+    "data",
+    "automatic",
+    "framework"
+  ],
+  "author": "dasol kim",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1229.0",
+    "axios": "^0.26.0",
+    "clickhouse": "^2.6.0",
+    "fast-xml-parser": "^4.0.7",
+    "mime-types": "^2.1.35",
+    "sequelize": "^6.25.3",
+    "sequelize-cli": "^6.5.2"
+  },
+  "bugs": {
+    "url": "https://github.com/dassolkim/ODLC/issues"
+  },
+  "homepage": "https://github.com/dassolkim/ODLC#readme"
+}
