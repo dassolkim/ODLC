@@ -12,5 +12,5 @@ With the recent increase in data disclosure, research using open data in various
 ### Running
 1. Download this source (git clone)
 2. Execute npm install
-3. Write config.js ()
+3. Edit connectConfig.js (Object Storage Info, URL, Bucket, Keywords)
 4. node ./main.js
