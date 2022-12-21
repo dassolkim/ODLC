@@ -1,5 +1,5 @@
 const AWS = require('aws-sdk')
-const config = require('../config')
+const config = require('../connectConfig')
 
 class S3Client {
     constructor() {
